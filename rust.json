@@ -68,7 +68,7 @@
   },
   {
     "Id": "satchel_01",
-    "Nombre": "Carga de Saturación (Satchel)",
+    "Nombre": "Satchel",
     "Categoria": "Incursión",
     "MesaTrabajo": "T1",
     "Imagen": "satchel.png",
@@ -110,7 +110,7 @@
   },
   {
     "Id": "ak47_01",
-    "Nombre": "AK-47",
+    "Nombre": "Fusil AK-47",
     "Categoria": "Combate",
     "MesaTrabajo": "T3",
     "Imagen": "ak47.png",
