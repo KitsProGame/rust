@@ -1,0 +1,355 @@
+[
+  {
+    "Id": "explosivos_item_01",
+    "Nombre": "Explosivos",
+    "Categoria": "Incursión",
+    "MesaTrabajo": "T3",
+    "Imagen": "explosivos.png",
+    "Ingredientes": [
+      {
+        "Material": "Pólvora",
+        "CantidadPorUnidad": 50
+      },
+      {
+        "Material": "Combustible de bajo grado",
+        "CantidadPorUnidad": 3
+      },
+      {
+        "Material": "Azufre",
+        "CantidadPorUnidad": 10
+      },
+      {
+        "Material": "Fragmentos de metal",
+        "CantidadPorUnidad": 10
+      }
+    ]
+  },
+  {
+    "Id": "cohete_01",
+    "Nombre": "Cohete",
+    "Categoria": "Incursión",
+    "MesaTrabajo": "T3",
+    "Imagen": "cohete.png",
+    "Ingredientes": [
+      {
+        "Material": "Explosivos",
+        "CantidadPorUnidad": 10
+      },
+      {
+        "Material": "Pólvora",
+        "CantidadPorUnidad": 650
+      },
+      {
+        "Material": "Tubería de metal",
+        "CantidadPorUnidad": 2
+      }
+    ]
+  },
+  {
+    "Id": "c4_01",
+    "Nombre": "C4",
+    "Categoria": "Incursión",
+    "MesaTrabajo": "T3",
+    "Imagen": "c4.png",
+    "Ingredientes": [
+      {
+        "Material": "Explosivos",
+        "CantidadPorUnidad": 20
+      },
+      {
+        "Material": "Tela",
+        "CantidadPorUnidad": 5
+      },
+      {
+        "Material": "Basura tecnológica",
+        "CantidadPorUnidad": 2
+      }
+    ]
+  },
+  {
+    "Id": "satchel_01",
+    "Nombre": "Carga de Saturación (Satchel)",
+    "Categoria": "Incursión",
+    "MesaTrabajo": "T1",
+    "Imagen": "satchel.png",
+    "Ingredientes": [
+      {
+        "Material": "Carga de hojalata",
+        "CantidadPorUnidad": 4
+      },
+      {
+        "Material": "Bolsa de cuero",
+        "CantidadPorUnidad": 1
+      },
+      {
+        "Material": "Cuerda",
+        "CantidadPorUnidad": 1
+      }
+    ]
+  },
+  {
+    "Id": "mun_explosiva_01",
+    "Nombre": "Munición Explosiva 5.56",
+    "Categoria": "Incursión",
+    "MesaTrabajo": "T3",
+    "Imagen": "mun_explosiva.png",
+    "Ingredientes": [
+      {
+        "Material": "Pólvora",
+        "CantidadPorUnidad": 10
+      },
+      {
+        "Material": "Fragmentos de metal",
+        "CantidadPorUnidad": 5
+      },
+      {
+        "Material": "Azufre",
+        "CantidadPorUnidad": 5
+      }
+    ]
+  },
+  {
+    "Id": "ak47_01",
+    "Nombre": "AK-47",
+    "Categoria": "Combate",
+    "MesaTrabajo": "T3",
+    "Imagen": "ak47.png",
+    "Ingredientes": [
+      {
+        "Material": "Metal de alta calidad",
+        "CantidadPorUnidad": 50
+      },
+      {
+        "Material": "Cuerpo de fusil",
+        "CantidadPorUnidad": 1
+      },
+      {
+        "Material": "Muelles de metal",
+        "CantidadPorUnidad": 4
+      },
+      {
+        "Material": "Madera",
+        "CantidadPorUnidad": 200
+      }
+    ]
+  },
+  {
+    "Id": "thompson_01",
+    "Nombre": "Thompson",
+    "Categoria": "Combate",
+    "MesaTrabajo": "T2",
+    "Imagen": "thompson.png",
+    "Ingredientes": [
+      {
+        "Material": "Fragmentos de metal",
+        "CantidadPorUnidad": 100
+      },
+      {
+        "Material": "Cuerpo de subfusil",
+        "CantidadPorUnidad": 1
+      },
+      {
+        "Material": "Muelles de metal",
+        "CantidadPorUnidad": 1
+      },
+      {
+        "Material": "Madera",
+        "CantidadPorUnidad": 100
+      }
+    ]
+  },
+  {
+    "Id": "sap_01",
+    "Nombre": "Pistola Semiautomática",
+    "Categoria": "Combate",
+    "MesaTrabajo": "T2",
+    "Imagen": "sap.png",
+    "Ingredientes": [
+      {
+        "Material": "Metal de alta calidad",
+        "CantidadPorUnidad": 4
+      },
+      {
+        "Material": "Cuerpo de pistola",
+        "CantidadPorUnidad": 1
+      },
+      {
+        "Material": "Muelles de metal",
+        "CantidadPorUnidad": 1
+      },
+      {
+        "Material": "Fragmentos de metal",
+        "CantidadPorUnidad": 150
+      }
+    ]
+  },
+  {
+    "Id": "mun_556_01",
+    "Nombre": "Munición 5.56",
+    "Categoria": "Combate",
+    "MesaTrabajo": "T2",
+    "Imagen": "mun_556.png",
+    "Ingredientes": [
+      {
+        "Material": "Pólvora",
+        "CantidadPorUnidad": 5
+      },
+      {
+        "Material": "Fragmentos de metal",
+        "CantidadPorUnidad": 3
+      }
+    ]
+  },
+  {
+    "Id": "mun_pistola_01",
+    "Nombre": "Munición 9mm",
+    "Categoria": "Combate",
+    "MesaTrabajo": "T1",
+    "Imagen": "mun_pistola.png",
+    "Ingredientes": [
+      {
+        "Material": "Pólvora",
+        "CantidadPorUnidad": 3
+      },
+      {
+        "Material": "Fragmentos de metal",
+        "CantidadPorUnidad": 2
+      }
+    ]
+  },
+  {
+    "Id": "mun_escopeta_01",
+    "Nombre": "Cartucho de Escopeta",
+    "Categoria": "Combate",
+    "MesaTrabajo": "T1",
+    "Imagen": "mun_escopeta.png",
+    "Ingredientes": [
+      {
+        "Material": "Pólvora",
+        "CantidadPorUnidad": 10
+      },
+      {
+        "Material": "Fragmentos de metal",
+        "CantidadPorUnidad": 3
+      }
+    ]
+  },
+  {
+    "Id": "torreta_01",
+    "Nombre": "Torreta Automática",
+    "Categoria": "Electricidad",
+    "MesaTrabajo": "T2",
+    "Imagen": "torreta.png",
+    "Ingredientes": [
+      {
+        "Material": "Cámara CCTV",
+        "CantidadPorUnidad": 1
+      },
+      {
+        "Material": "Ordenador de apuntado",
+        "CantidadPorUnidad": 1
+      },
+      {
+        "Material": "Fragmentos de metal",
+        "CantidadPorUnidad": 200
+      }
+    ]
+  },
+  {
+    "Id": "bateria_01",
+    "Nombre": "Batería Grande",
+    "Categoria": "Electricidad",
+    "MesaTrabajo": "T2",
+    "Imagen": "bateria.png",
+    "Ingredientes": [
+      {
+        "Material": "Metal de alta calidad",
+        "CantidadPorUnidad": 10
+      },
+      {
+        "Material": "Componentes electrónicos",
+        "CantidadPorUnidad": 5
+      }
+    ]
+  },
+  {
+    "Id": "eolica_01",
+    "Nombre": "Turbina Eólica",
+    "Categoria": "Electricidad",
+    "MesaTrabajo": "T2",
+    "Imagen": "eolica.png",
+    "Ingredientes": [
+      {
+        "Material": "Metal de alta calidad",
+        "CantidadPorUnidad": 30
+      },
+      {
+        "Material": "Chapa de metal",
+        "CantidadPorUnidad": 3
+      },
+      {
+        "Material": "Engranajes",
+        "CantidadPorUnidad": 5
+      },
+      {
+        "Material": "Fragmentos de metal",
+        "CantidadPorUnidad": 500
+      }
+    ]
+  },
+  {
+    "Id": "jeringa_01",
+    "Nombre": "Jeringa Médica",
+    "Categoria": "Médico",
+    "MesaTrabajo": "T1",
+    "Imagen": "jeringa.png",
+    "Ingredientes": [
+      {
+        "Material": "Combustible de bajo grado",
+        "CantidadPorUnidad": 15
+      },
+      {
+        "Material": "Tela",
+        "CantidadPorUnidad": 10
+      },
+      {
+        "Material": "Fragmentos de metal",
+        "CantidadPorUnidad": 10
+      }
+    ]
+  },
+  {
+    "Id": "horno_electrico_01",
+    "Nombre": "horno electrico",
+    "Categoria": "Base",
+    "MesaTrabajo": "T2",
+    "Imagen": "horno_electrico.png",
+    "Ingredientes": [
+      {
+        "Material": "Fragmentos de metal",
+        "CantidadPorUnidad": 200
+      },
+      {
+        "Material": "Componentes electrónicos",
+        "CantidadPorUnidad": 2
+      }
+    ]
+  },
+  {
+    "Id": "botiquin_01",
+    "Nombre": "Botiquín Grande",
+    "Categoria": "Médico",
+    "MesaTrabajo": "T2",
+    "Imagen": "botiquin.png",
+    "Ingredientes": [
+      {
+        "Material": "Jeringa Médica",
+        "CantidadPorUnidad": 2
+      },
+      {
+        "Material": "Tela",
+        "CantidadPorUnidad": 20
+      }
+    ]
+  }
+]
